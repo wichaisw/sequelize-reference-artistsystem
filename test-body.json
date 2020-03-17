@@ -1,0 +1,12 @@
+{
+	"name":"Joy Mayer",
+	"phoneNO": "0814254985",
+	"addr": "444 Phayathai Rd, Pathum Wan, Pathum Wan District, Bangkok 10330",
+	"album":{
+		"name": "Kleenex",
+		"release_date": "2020-01-02"
+	},
+	"song": {
+		"name": "Firework"
+	}
+}
